@@ -1,0 +1,1 @@
+Consumer for "WebSocketEcho" project
